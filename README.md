@@ -1,4 +1,4 @@
- # School Database (Django REST API) 🚀
+ # Stdunt Database (Django REST API) 🚀
 
 This repository contains a backend-only Django REST API for managing students and their invoices/payments. It uses Django 4.x, Django REST Framework, SQLite3, and includes helpful endpoints for listing, filtering, exporting CSVs, and aggregating summary data.
 
